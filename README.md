@@ -8,6 +8,10 @@ I'm a **Solutions Architect** at AWS, passionate about **AI**, **Machine Learnin
 - Neural Networks & Nonlinear Dynamics
 - Distributed Systems
 
+## Get in Touch
+Feel free to reach out to me for collaboration, open-source projects, or just to chat about your best ideas.
+
+
 
 
 
