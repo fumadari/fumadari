@@ -8,9 +8,6 @@ I'm a **Solutions Architect** at AWS, passionate about **AI**, **Machine Learnin
 - Neural Networks & Nonlinear Dynamics
 - Distributed Systems
 
-## Projects
-- **[GIST Dataset Clustering](https://github.com/your-username/gist-clustering)**: Scalable clustering for 1M+ vectors.
-- **[Graph Attention Networks](https://github.com/your-username/gan-drug-discovery)**: GNN for drug analysis with 91% accuracy.
 
 ## Connect with Me
 - [LinkedIn](https://linkedin.com/in/your-profile) | [Resume](path-to-resume.pdf)
