@@ -9,9 +9,6 @@ I'm a **Solutions Architect** at AWS, passionate about **AI**, **Machine Learnin
 - Distributed Systems
 
 
-## Connect with Me
-- [LinkedIn](https://linkedin.com/in/your-profile) | [Resume](path-to-resume.pdf)
-
 
 
 
